@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ol,ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+}
+a:visited{
+	text-decoration: none;
+}
+html{
+	font-size:20px;
+}
+img{
+	width: 100%;
+	height: auto;
+}
+
+
+header{
+	background: #535353;
+	text-align: center;
+	position: relative;
+}
+header h2{
+	color: white;
+	margin: 0;
+	padding:0.8rem 0;
+	font-size: 1.5rem;
+}
+header img{
+	width: 2rem;
+}
+header .two_nav{
+	width: 100%;
+	padding: 0.5rem 0;
+	font-size:0.8rem;
+	text-align: center;
+}
+header .two_nav a{
+	margin: 0 0.3rem;
+	color: blue;
+}
+
